@@ -1,3 +1,4 @@
+mod cartridge;
 mod cpu;
 
 fn main() {
